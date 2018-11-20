@@ -2,6 +2,7 @@
 Cygames hates you, so let your computer yell at you when playing their shitty game
 
 How it works? 
+
 0)It searches for all images inside the Assets/ folder, so you can change to anything (captcha, new verify) - Just make sure to always have Verify1-Verify10.png
 1) Run the exe program 
 2) Play gbf
